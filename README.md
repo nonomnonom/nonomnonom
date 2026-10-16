@@ -1,15 +1,11 @@
-# Nonom Friedman
+![Pink Blobs artwork](assets/banner.png)
 
-Ridzaldy Imam Nugraha · Indonesia
+# Hi, I'm Nonom.
 
-R&D builder and software engineer. I've been building software since 2019, with work across full-stack applications, backend systems, Web3, AI agents, and developer tools.
+I'm a full-stack software engineer based in Indonesia.
 
-## Selected engineering work
+I've been building software since 2019. Alongside engineering, I work on design and motion.
 
-- **[Codeboard](https://github.com/nonomnonom/codeboard)** — a JavaScript/TypeScript toolkit for editable drawings, storyboards, and 2D animation. [Website](https://codeboard.nonom.xyz) · [Documentation](https://codeboard.nonom.xyz/docs/)
-- **[Sealion](https://github.com/nonomnonom/sealion)** — a multi-agent market simulation framework built with Mastra and Bun's SQLite. [npm package](https://www.npmjs.com/package/sealion-sim)
-- **[meta-tools](https://github.com/nonomnonom/meta-tools)** — a self-hosted MCP server for Meta business APIs and agent workflows.
+My experience includes work across 0x, Atlas, DocketRunner, and Optimism.
 
-Previously, I worked on product R&D at Atlas and ShonaLabs, Solidity and backend engineering in the 0x ecosystem, and blob-launch animation for Optimism.
-
-[Portfolio](https://nonom.xyz/en/about) · [Projects](https://nonom.xyz/en/projects) · [Email](mailto:hi@nonom.xyz)
+[Website](https://nonom.xyz) · [Email](mailto:hi@nonom.xyz)
