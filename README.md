@@ -2,10 +2,6 @@
 
 # Hi, I'm Nonom.
 
-I'm a full-stack software engineer based in Indonesia.
-
-I've been building software since 2019. Alongside engineering, I work on design and motion.
-
-My experience includes work across 0x, Atlas, DocketRunner, and Optimism.
+I'm a full-stack software engineer based in Indonesia with hands-on experience building and shipping production software across the entire stack.
 
 [Website](https://nonom.xyz) · [Email](mailto:hi@nonom.xyz)
